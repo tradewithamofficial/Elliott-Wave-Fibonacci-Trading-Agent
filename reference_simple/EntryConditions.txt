@@ -1,0 +1,24 @@
+Inspect the GUI-selected TradingView chart and its current market conditions. This is a strictly READ-ONLY Elliott Wave entry inquiry, not a new analysis/drawing run.
+
+Read the existing Object Tree groups named exactly:
+- Elliott Wave Swing Scenario 1
+- Elliott Wave Swing Scenario 2
+- Elliott Wave Swing Scenario 3
+- Elliott Wave Intraday Scenario 1
+- Elliott Wave Intraday Scenario 2
+- Elliott Wave Intraday Scenario 3
+
+Inspect only groups actually present and their existing drawings, annotations, levels and conditions. Do not assume all six exist or that older analysis remains valid. If none exist, respond briefly: "No Elliott Wave scenarios were found on this chart. Please run Elliott Wave & Fibonacci Analysis first."
+
+Use actual current chart data and completed candles to assess:
+1. Which existing scenario appears to be developing, if any, and why.
+2. Whether its stated confirmation/entry conditions have actually been satisfied or remain outstanding.
+3. Verified relevant price levels, invalidation and supported potential targets.
+4. WAIT, MONITOR or CONDITIONAL SETUP, with exactly what should happen next before considering a trade.
+5. Weakening/conflicting evidence and when to rerun full analysis because the existing scenarios no longer fit.
+
+Prefer completed candles over forming candles. Never infer entry prices or confirmation merely from a group name. If the current resolution cannot verify a condition requiring a different timeframe, disclose that limitation, identify the required completed candle, and WAIT/MONITOR. Do not manufacture missing levels, counts, targets, probabilities or trade opportunities.
+
+Do not switch timeframe, symbol, chart, tab or pane. Do not create, delete, modify, move, rename, regroup, hide/show or reorganize any drawings, Object Tree groups, studies, indicators, visibility settings or layouts. Do not place orders, change alerts or send Telegram. Use existing permitted inspection tools only; any page expression must be read-only, never a setter or mutation. Stop on permission/tool/data failure and report the actual failure without retry or alternative permission workarounds.
+
+Return a short, practical, ordinary human-readable response suitable for a copyable desktop popup. Clearly name the existing scenario, evidence, confirmation still needed, invalidation, supported targets and the next action to watch. No JSON schema or drawing manifest.

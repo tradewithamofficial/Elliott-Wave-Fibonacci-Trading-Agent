@@ -1,0 +1,36 @@
+Please analyze the current TradingView chart using Elliott Wave Theory and Fibonacci-based technical analysis.
+
+Use the 1D, 4H, and 1H timeframes to build a clear multi-timeframe market view.
+
+Based on that analysis, identify the three most plausible scenarios for where price could move next.
+
+For each scenario:
+
+1. Explain the scenario clearly and objectively.
+2. Describe the expected price path and likely outcome.
+3. Identify the key Fibonacci levels involved.
+4. State the confirmation conditions that would support the scenario.
+5. State the invalidation or negation conditions that would make the scenario less likely or invalid.
+
+Then draw each scenario directly on the TradingView chart using:
+- clear Elliott Wave counts
+- clear labels
+- arrows showing expected price movement
+- relevant Fibonacci retracement / extension levels
+- any other important technical markers needed for clarity
+
+Organization requirements:
+- Put all drawings for each scenario into separate object groups named:
+  - Elliott Wave Swing Scenario 1
+  - Elliott Wave Swing Scenario 2
+  - Elliott Wave Swing Scenario 3
+- Keep the three scenarios visually distinct.
+- Make each scenario easy to hide or show individually in the TradingView object tree.
+
+Finally, suggest potential trade setups to watch for in the near future based on these scenarios.
+For each setup, include:
+- direction (long or short)
+- the condition that would trigger interest
+- the important level or zone to watch
+- where the setup would become invalid
+- the reasoning behind the setup

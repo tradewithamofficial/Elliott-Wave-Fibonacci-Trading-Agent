@@ -1,0 +1,115 @@
+
+Now, Please analyze the current TradingView chart specifically from the **15-minute timeframe** using **Elliott Wave Theory and Fibonacci-based technical analysis**.
+
+Important context:
+
+There are already three higher-timeframe Elliott Wave + Fibonacci scenarios on the chart, created from the **1D, 4H, and 1H timeframes**.
+
+They are stored in the TradingView Object Tree as:
+
+- Elliott Wave Swing Scenario 1
+- Elliott Wave Swing Scenario 2
+- Elliott Wave Swing Scenario 3
+
+Do NOT delete, modify, reorganize, or overwrite those existing groups or their drawings.
+
+First, inspect the existing higher-timeframe scenarios so you understand the broader market structure and the possible paths already identified.
+
+Then switch your focus to the **15-minute chart** and perform a fresh short-term / intraday Elliott Wave analysis.
+
+Your objective is to identify the **three most plausible short-term price scenarios** for the next intraday move.
+
+For each 15-minute scenario:
+
+1. Identify the most plausible Elliott Wave structure currently developing.
+2. Explain where price may be positioned within that wave structure.
+3. Describe the expected short-term price path.
+4. Identify the most important Fibonacci retracement, extension, projection, or confluence levels.
+5. Identify nearby support, resistance, liquidity, reaction zones, or structural levels that are relevant.
+6. Clearly state the conditions that would confirm the scenario.
+7. Clearly state the conditions that would weaken or invalidate the scenario.
+8. Identify the important price levels that should be monitored as the scenario develops.
+
+Draw each scenario directly on the TradingView chart using appropriate:
+
+- Elliott Wave counts
+- directional arrows
+- clear labels
+- Fibonacci retracement / extension levels
+- support or resistance zones where relevant
+- confirmation levels
+- invalidation levels
+- projected price targets where justified
+
+Create three NEW and separate TradingView Object Tree groups named exactly:
+
+- Elliott Wave Intraday Scenario 1
+- Elliott Wave Intraday Scenario 2
+- Elliott Wave Intraday Scenario 3
+
+Place every drawing belonging to each scenario inside its corresponding group.
+
+Keep the three scenarios visually distinct and make sure each group can be hidden or shown independently.
+
+### Relationship to the existing higher-timeframe scenarios
+
+After developing the three 15-minute scenarios, compare each one with the existing:
+
+- Elliott Wave Swing Scenario 1
+- Elliott Wave Swing Scenario 2
+- Elliott Wave Swing Scenario 3
+
+Determine whether each 15-minute scenario is:
+
+- compatible with one or more of the higher-timeframe scenarios,
+- neutral / possible under several higher-timeframe scenarios,
+- or conflicting with a particular higher-timeframe scenario.
+
+Do not force a relationship if one does not exist.
+
+Explain the relationship clearly.
+
+For example:
+
+Intraday Scenario 1 → compatible with Swing Scenario1 and Swing Scenario3  
+Intraday Scenario 2 → primarily compatible with Swing Scenario2  
+Intraday Scenario 3 → possible under Swing Scenario1 but conflicts with Swing Scenario2
+
+Base this on the Elliott Wave structure, Fibonacci levels, market structure, and projected price path rather than simply matching bullish scenarios with bullish scenarios.
+
+### Intraday trade opportunities
+
+Finally, identify any **potential intraday trade setups worth watching**.
+
+Do not assume a trade must be taken. If the current structure does not provide a sufficiently clear setup, say so.
+
+For each worthwhile setup, provide:
+
+- Long or Short
+- Which 15-minute scenario it belongs to
+- Which higher-timeframe scenario(s) it is compatible with
+- Entry area or zone to monitor
+- Exact confirmation or trigger condition
+- Invalidation / stop logic
+- Potential target areas
+- Relevant Fibonacci levels
+- Approximate risk-to-reward structure if reasonably identifiable
+- What price action should occur before considering the trade
+
+Prioritize **conditional setups** rather than predicting that price must move in a particular direction.
+
+### Final summary
+
+At the end, give me a concise table or structured summary containing:
+
+15m Scenario | Expected Move | Confirmation | Invalidation | Key Fibonacci Levels | Compatible Higher-Timeframe Scenario(s)
+
+Then provide a separate short summary of the best intraday trade ideas currently worth monitoring.
+
+Important:
+
+- Preserve all existing higher-timeframe drawings.
+- Do not modify Elliott Wave Swing Scenario 1, Elliott Wave Swing Scenario 2, or Elliott Wave Swing Scenario 3.
+- Use those groups only as context.
+- Create all new intraday drawings inside 15m Scenario1, 15m Scenario2, and 15m Scenario3.
+- Focus on actionable short-term structure while remaining consistent with the broader 1D / 4H / 1H context.

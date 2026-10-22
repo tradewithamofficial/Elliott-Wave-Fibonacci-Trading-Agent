@@ -1,0 +1,43 @@
+Trade With AM — Elliott Wave & Fibonacci Trading Agent
+Version 1.0.0 — Windows x64
+
+1. Extract the entire ZIP to a writable folder. Keep the EXE, _internal,
+   reference_simple and license/notices together. Run ElliottWaveFibonacciTradingAgent.exe.
+   Python and PyCharm are not required for this Windows package.
+
+2. Install/authenticate Codex CLI separately with access to your selected model.
+   Reuse your working TradingView MCP configuration and approval settings.
+   Node.js, TradingView Desktop and the MCP connector remain external prerequisites.
+   Use your working TradingView debugging/CDP launcher on port 9222.
+   Default connector folder: %USERPROFILE%\tradingview-mcp.
+
+3. Select the chart symbol and model. Swing/Intraday apply only to the left button.
+   Both runs Swing first. All Charts is unavailable. Review confirmations and keep
+   the selected tab stable. The right button inspects existing scenarios and requests
+   no drawing changes. Neither button places trades or connects to an exchange account.
+
+4. Editable prompts are reference_simple/swing.txt, Intraday.txt and EntryConditions.txt.
+   Local results are saved under responses beside the EXE. These private records
+   are excluded from the distributed package.
+
+5. Optional Telegram: copy telegram_config.example.json to telegram_config.local.json
+   beside the EXE, not inside _internal. Enter your own bot_token and numeric chat_id
+   as JSON strings. Never publish the private copy. Missing config does not prevent
+   startup. Successful left analysis sends the complete response in numbered parts;
+   Both sends the categories in order. The right button never sends Telegram.
+   Failure preserves the copyable analysis and never triggers an automatic resend.
+
+6. Review chart objects yourself. CLI completion does not independently verify
+   drawings. No automatic deletion/replacement, retry or rollback is performed.
+   A failed run can leave partial results; inspect before another request.
+
+Nonstandard installations can set Windows user environment variables:
+SR_TRADINGVIEW_MCP_DIR = installed connector folder
+SR_NODE_PATH = full path to node.exe
+SR_CODEX_PATH = full path to the installed Codex binary/shim
+Restart the app after changing them.
+
+The EXE is unsigned. Follow normal Windows security policy. External services may
+require paid accounts/usage. Preserve LICENSE, THIRD-PARTY-NOTICES.md and all
+third_party_licenses, including Microsoft's runtime redistribution conditions
+in Python-LICENSE.txt. No personal credentials or external installations are bundled.
