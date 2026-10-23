@@ -11,6 +11,17 @@ This is a **chart-analysis application, not an automated trade-execution system*
 Scenarios are conditional interpretations, not confirmed entries. External
 accounts, subscriptions and AI usage are separate. Analysis can be wrong.
 
+## Install or Customize with ChatGPT — No Coding Experience Required to Start
+
+Copy the [installation guide](INSTALL-WITH-CHATGPT.md) into a new ChatGPT conversation
+for one-step-at-a-time setup. The [full ChatGPT Master Prompt](docs/CHATGPT_MASTER_PROMPT.md)
+also guides optional, focused development using Codex after installation works.
+Start with the [Windows v1.0.0 release](https://github.com/tradewithamofficial/Elliott-Wave-Fibonacci-Trading-Agent/releases/tag/v1.0.0); Python/PyCharm are not needed
+for its EXE, but the existing external Codex/TradingView MCP setup is required for
+analysis. Future examples include implementing the visible **All Charts** checkbox;
+multi-chart processing is not implemented in V1. No code or release asset changes
+are made by this documentation update.
+
 ## Windows release
 
 Download the v1.0.0 Windows ZIP from this repository's Releases section:
