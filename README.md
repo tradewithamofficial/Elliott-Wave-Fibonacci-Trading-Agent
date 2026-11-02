@@ -11,6 +11,10 @@ This is a **chart-analysis application, not an automated trade-execution system*
 Scenarios are conditional interpretations, not confirmed entries. External
 accounts, subscriptions and AI usage are separate. Analysis can be wrong.
 
+[**Install with ChatGPT — Step-by-Step**](INSTALL-WITH-CHATGPT.md)
+
+**Start here:** [TradingView MCP installation video](https://youtu.be/dwptd_aNn6I) · [Trade With AM YouTube channel](https://www.youtube.com/@TradeWithAMTrading/videos)
+
 ## Install or Customize with ChatGPT — No Coding Experience Required to Start
 
 Copy the [installation guide](INSTALL-WITH-CHATGPT.md) into a new ChatGPT conversation
